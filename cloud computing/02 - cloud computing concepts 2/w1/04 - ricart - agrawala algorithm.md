@@ -11,3 +11,6 @@ used to solve Mutual Exclusion problem
 
 - exit()
   - change state to **Released** and **Reply** to all **queue**
+
+
+# maekawa use ricart - agrawala mechanic with states and messages, just optimize in using quorum instead all-to-all messaging
