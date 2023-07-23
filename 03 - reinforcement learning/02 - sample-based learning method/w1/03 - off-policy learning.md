@@ -1,0 +1,3 @@
+- off learning allow our agent to experience new actions in each state
+- the policy we want to learn is the **target policy** (optimal policy)
+- the policy our agent choose action from is the **behavior policy** 
